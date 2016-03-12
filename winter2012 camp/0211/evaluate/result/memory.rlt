@@ -1,0 +1,12 @@
+{memory 100 Compile successfully
+101 0.000000 0.000 Invalid Output File!
+101 5.000000 0.000 Okay! negative error detection!
+101 0.000000 0.000 Wrong Answer! invalid move in step#1
+101 0.000000 0.000 Wrong Answer! invalid move in step#1
+101 0.000000 0.000 Wrong Answer! invalid move in step#1
+101 0.000000 0.028 Wrong Answer! invalid move in step#1
+101 0.000000 0.044 Wrong Answer! invalid move in step#1
+101 0.000000 0.076 Wrong Answer! invalid move in step#1
+101 0.000000 0.124 Wrong Answer! invalid move in step#1
+101 0.000000 0.152 Wrong Answer! invalid move in step#1
+}102 5.000000
